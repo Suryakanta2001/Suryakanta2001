@@ -1,4 +1,5 @@
-![github-header-image (1)](https://github.com/Suryakanta2001/Suryakanta2001/assets/91490320/75a31b96-b96a-457a-b394-aa8e24494375)
+![github-header-image](https://github.com/Suryakanta2001/Suryakanta2001/assets/91490320/c49f6026-1c20-42c5-b69a-8dc5df99e3bf)
+
 
 ## Hey 👋, I'm Suryakanta Sinha!  
   
