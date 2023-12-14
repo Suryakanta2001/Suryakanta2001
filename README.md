@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/Suryakanta2001/Suryakanta2001/assets/91490320/c49f6026-1c20-42c5-b69a-8dc5df99e3bf)
+![MasterHead](https://c.tenor.com/LDuF2jVabwoAAAAC/banner-welcome.gif)
 
 
 ## Hey 👋, I'm Suryakanta Sinha!  
