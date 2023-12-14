@@ -114,10 +114,8 @@
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Suryakanta2001&&style=flat-square)  
   
-
 <br/>  
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Suryakanta2001&" alt="Suryakanta2001" /></p>
 <br />
 
 ----
