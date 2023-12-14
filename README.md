@@ -49,7 +49,7 @@
 </td><td valign="top" width="50%">
 
 <div align="center">
-!<img(https://github.com/Suryakanta2001/Suryakanta2001/assets/91490320/9946dfc7-1752-45bb-8f39-7a8a6433c7be)/>
+<img src=https://github.com/Suryakanta2001/Suryakanta2001/assets/91490320/9946dfc7-1752-45bb-8f39-7a8a6433c7be/>
 </div>  
 
 
