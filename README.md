@@ -37,7 +37,7 @@
 - 🔭 I’m currently working on some MERN Technologies  
   
 
-- 🌱 I’m currently learning Next.js, React, Tailwind CSS  
+- 🌱 I’m currently learning Next.js, React, Tailwind CSS ,Typescript 
   
 
 - ❓ Ask me about anything related to the MERN stack and related technologies  
