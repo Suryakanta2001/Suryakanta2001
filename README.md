@@ -3,7 +3,7 @@
 
 ## Hey 👋, I'm Suryakanta Sinha!  
   
-
+### 🌐 Socials:
 <a href="https://github.com/Suryakanta2001" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -58,7 +58,7 @@
 <br/>  
 
 
-## Languages and Tools   
+### 💻 Tech Stack  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
