@@ -108,21 +108,10 @@
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Suryakanta2001&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryakanta2001&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-<div align="left"></div>  
-
+### 📊 GitHub Stats:
+[![Nitesh's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Suryakanta2001&theme=dark&count_private=true&show_icons=true)](https://github.com/Suryakanta2001/github-readme-stats#gh-dark-mode-only)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Suryakanta2001&theme=dark)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suryakanta2001&count_private=true&show_icons=true&theme=dark)
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Suryakanta2001&&style=flat-square)  
