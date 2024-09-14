@@ -109,17 +109,15 @@
 
 
 ### 📊 GitHub Stats:
-[![Nitesh's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Suryakanta2001&theme=dark&count_private=true&show_icons=true)](https://github.com/Suryakanta2001/github-readme-stats#gh-dark-mode-only)
+[![Suryakanta's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Suryakanta2001&theme=dark&count_private=true&show_icons=true)](https://github.com/Suryakanta2001/github-readme-stats#gh-dark-mode-only)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Suryakanta2001&theme=dark)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suryakanta2001&count_private=true&show_icons=true&theme=dark)
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Suryakanta2001&&style=flat-square)  
-  
-<br/>  
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Suryakanta2001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 <br />
 
+----
+<img src="https://github.com/blob/main/icons/header_.png" />
 ----
 <a href="https://www.buymeacoffee.com/SuryakantaSinha" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
