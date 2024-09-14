@@ -117,7 +117,8 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=Suryakanta2001&&style=flat-square)  
   
 <br/>  
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Suryakanta2001&" alt="Suryakanta2001" />
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Suryakanta2001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 <br />
 
 ----
