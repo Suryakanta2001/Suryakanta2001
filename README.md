@@ -118,6 +118,6 @@
 <br />
 
 ----
-<img src="https://github.com/blob/main/icons/header_.png" />
+<img src="https://github.com/Suryakanta2001/Suryakanta2001/blob/master/header_.png" />
 
 <a href="https://www.buymeacoffee.com/SuryakantaSinha" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
