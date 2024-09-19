@@ -7,7 +7,7 @@
 <p align="center">
   <img alt="Coding GIF" width="300" height="auto" src="/coding.gif"/>
 </p>
-<p align="center">Currently learning - Artificial Intelligence and Machine Learning</p>
+<p align="center">Currently learning - Full Stack Web Development</p>
 ## Hey 👋, I'm Suryakanta Sinha!  
   
 ### 🌐 Socials:
