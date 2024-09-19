@@ -8,7 +8,6 @@
   <img alt="Coding GIF" width="300" height="auto" src="/coding.gif"/>
 </p>
 <p align="center">Currently learning - Full Stack Web Development</p>
-## Hey 👋, I'm Suryakanta Sinha!  
   
 ### 🌐 Socials:
 <a href="https://github.com/Suryakanta2001" target="_blank">
