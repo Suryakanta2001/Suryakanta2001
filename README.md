@@ -7,9 +7,9 @@
 <p align="center">
   <img alt="Coding GIF" width="300" height="auto" src="/coding.gif"/>
 </p>
-
+<p align="center">Currently learning - Artificial Intelligence and Machine Learning</p>
 ## Hey 👋, I'm Suryakanta Sinha!  
-  <p align="center">Currently learning - Artificial Intelligence and Machine Learning</p>
+  
 ### 🌐 Socials:
 <a href="https://github.com/Suryakanta2001" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
